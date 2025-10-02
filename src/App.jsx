@@ -8,6 +8,7 @@ const stocks = [
   { ticker: '005930.KS' },
   { ticker: 'SPLG' },
   { ticker: 'QQQM' },
+  { ticker: 'GLD' },
 ]
 
 function App() {
